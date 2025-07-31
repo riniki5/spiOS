@@ -4,7 +4,7 @@
   "changes": [
     {
       "version": "0.7.1",
-      "title": "Renamed Start Web Server",
+      "title": "Renamed Start Web Server And Removed Check For Updates in WS",
       "date": "2025-07-31",
       "items": [
         "Renamed Start Web Server to Reload Web Server"
