@@ -1,7 +1,23 @@
 {
-  "version": "0.6",
+  "version": "0.7.1",
   "date": "2025-07-31",
   "changes": [
+    {
+      "version": "0.7.1",
+      "title": "Added Settings",
+      "date": "2025-07-31",
+      "items": [
+        "Added Settings menu to main UI"
+      ]
+    },
+    {
+      "version": "0.7",
+      "title": "Added WSU",
+      "date": "2025-07-31",
+      "items": [
+        "Added Web Server Updates"
+      ]
+    },
     {
       "version": "0.6",
       "title": "Added Settings",
