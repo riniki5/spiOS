@@ -1,7 +1,23 @@
 {
-  "version": "0.7.1",
+  "version": "0.8.1",
   "date": "2025-07-31",
   "changes": [
+    {
+      "version": "0.8.1",
+      "title": "Minor Updates",
+      "date": "2025-07-31",
+      "items": [
+        "Minor Updates"
+      ]
+    },
+    {
+      "version": "0.8",
+      "title": "Changing Color Top to Bottom",
+      "date": "2025-07-31",
+      "items": [
+        "In WS you can now change colors in the Main Menu"
+      ]
+    },
     {
       "version": "0.7.1",
       "title": "Renamed Settings",
