@@ -1,7 +1,15 @@
 {
-  "version": "0.8.1",
+  "version": "0.9",
   "date": "2025-07-31",
   "changes": [
+    {
+      "version": "0.9",
+      "title": "Reorganized Main Menu",
+      "date": "2025-07-31",
+      "items": [
+        "Reorganized Scan WiFi and Start Web Server into Apps"
+      ]
+    },
     {
       "version": "0.8.1",
       "title": "Minor Updates",
