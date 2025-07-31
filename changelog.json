@@ -4,10 +4,10 @@
   "changes": [
     {
       "version": "0.7.1",
-      "title": "Renamed Start Web Server",
+      "title": "Renamed Settings",
       "date": "2025-07-31",
       "items": [
-        "Renamed Start Web Server to Reload Web Server"
+        "Renamed Settings to About OS"
       ]
     },
     {
