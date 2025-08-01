@@ -1,13 +1,21 @@
 {
-  "version": "0.9.7",
+  "version": "0.9.8B",
   "date": "2025-08-01",
   "changes": [
+    {
+      "version": "0.9.8B",
+      "title": "Fixed Back Buttons and WiFi",
+      "date": "2025-08-01",
+      "items": [
+        "Fixed Back Buttons and added connecting with saved wifi in WiFi option."
+      ]
+    },
     {
       "version": "0.9.7",
       "title": "Added a Refresh Button",
       "date": "2025-08-01",
       "items": [
-        "Added a Refresh Button and if it freezes just click the label spiOS"
+        "Added a Refresh Button and it also works as update time after reconnecting."
       ]
     },
     {
