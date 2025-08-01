@@ -22,7 +22,7 @@ Raspberry Pi Pico W
 
 -- A display with touch
 
--- Nothing more
+-- An antenna (optional(if you have an esp32 with a socket))
 ## Tested on:
 **ESP32 with ILI9488 and XPT2046**
 3.5 inch display
