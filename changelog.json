@@ -1,7 +1,15 @@
 {
-  "version": "0.9.8B",
+  "version": "0.9.9B",
   "date": "2025-08-01",
   "changes": [
+    {
+      "version": "0.9.9B",
+      "title": "Updating version in About OS",
+      "date": "2025-08-01",
+      "items": [
+        "When checking for updates in the WS it updates the version in About OS"
+      ]
+    },
     {
       "version": "0.9.8B",
       "title": "Fixed Back Buttons and WiFi",
