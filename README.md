@@ -8,10 +8,13 @@ ESP32
 ESP8266
 ### Possible
 Arduino Uno R3 + WiFi Shield 
+
 Arduino Mega 2560 + WiFi Shield
+
 STM32 with WiFi Module
 ### experimental?
 Arduino Leonardo + WiFi Shield
+
 Raspberry Pi Pico W
 ## What do you need?
 -- A microcontroller
