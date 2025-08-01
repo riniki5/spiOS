@@ -19,7 +19,9 @@ Arduino Leonardo + WiFi Shield
 Raspberry Pi Pico W
 ## What do you need?
 -- A microcontroller
+
 -- A display with touch
+
 -- Nothing more
 ## Tested on:
 **ESP32 with ILI9488 and XPT2046**
