@@ -23,3 +23,4 @@ Raspberry Pi Pico W
 -- Nothing more
 ## Tested on:
 **ESP32 with ILI9488 and XPT2046**
+3.5 inch display
