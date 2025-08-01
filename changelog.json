@@ -1,7 +1,15 @@
 {
-  "version": "0.9",
-  "date": "2025-07-31",
+  "version": "0.9.7",
+  "date": "2025-08-01",
   "changes": [
+    {
+      "version": "0.9.7",
+      "title": "Added a Refresh Button",
+      "date": "2025-08-01",
+      "items": [
+        "Added a Refresh Button"
+      ]
+    },
     {
       "version": "0.9",
       "title": "Reorganized Main Menu",
