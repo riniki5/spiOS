@@ -5,6 +5,7 @@ Currently in BETA, not released yet.
 ## Supported Devices 
 ### Works
 ESP32 
+
 ESP8266
 ### Possible
 Arduino Uno R3 + WiFi Shield 
