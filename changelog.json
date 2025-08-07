@@ -1,7 +1,15 @@
 {
-  "version": "0.9.9B",
-  "date": "2025-08-01",
+  "version": "0.9.9L",
+  "date": "2025-08-07",
   "changes": [
+    {
+      "version": "0.9.9L",
+      "title": "Reached 1000 Lines",
+      "date": "2025-08-07",
+      "items": [
+        "Reached 1000 Lines"
+      ]
+    },
     {
       "version": "0.9.9B",
       "title": "Updating version in About OS",
