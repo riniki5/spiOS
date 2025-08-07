@@ -8,15 +8,7 @@ ESP32
 
 ESP8266
 ### Possible
-Arduino Uno R3 + WiFi Shield 
-
-Arduino Mega 2560 + WiFi Shield
-
-STM32 with WiFi Module
-### experimental?
-Arduino Leonardo + WiFi Shield
-
-Raspberry Pi Pico W
+Arduino ATSAMD51
 ## What do you need?
 -- A microcontroller
 
@@ -26,3 +18,9 @@ Raspberry Pi Pico W
 ## Tested on:
 **ESP32 with ILI9488 and XPT2046**
 3.5 inch display
+
+## Libraries:
+LovyanGFX: https://github.com/lovyan03/LovyanGFX/
+Your Display and Touch controllers
+
+## Supported Displays are on the LovyanGFX site
