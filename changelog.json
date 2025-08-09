@@ -7,7 +7,7 @@
       "title": "Saving and Loading Weather",
       "date": "2025-08-09",
       "items": [
-        "Added Weather"
+        "Added saving and loading location, api key"
       ]
     },
     {
