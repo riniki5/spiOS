@@ -3,6 +3,14 @@
   "date": "2025-08-09",
   "changes": [
     {
+      "version": "0.10.2B",
+      "title": "Saving and Loading Weather",
+      "date": "2025-08-09",
+      "items": [
+        "Added Weather"
+      ]
+    },
+    {
       "version": "0.10B",
       "title": "Added Weather",
       "date": "2025-08-09",
