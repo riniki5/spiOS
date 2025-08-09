@@ -1,7 +1,15 @@
 {
-  "version": "0.10.2B",
+  "version": "0.10.3B",
   "date": "2025-08-09",
   "changes": [
+     {
+      "version": "0.10.3B",
+      "title": "Fixed Web Server Started Back button",
+      "date": "2025-08-09",
+      "items": [
+        "Fixed Web Server Started Back button"
+      ]
+    },
     {
       "version": "0.10.2B",
       "title": "Added Weather into the Apps Menu",
