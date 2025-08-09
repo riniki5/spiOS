@@ -1,9 +1,17 @@
 {
-  "version": "0.10B",
+  "version": "0.10.2B",
   "date": "2025-08-09",
   "changes": [
     {
       "version": "0.10.2B",
+      "title": "Added Weather into the Apps Menu",
+      "date": "2025-08-09",
+      "items": [
+        "Added Weather into the Apps Menu"
+      ]
+    },
+    {
+      "version": "0.10.1B",
       "title": "Saving and Loading Weather",
       "date": "2025-08-09",
       "items": [
