@@ -24,3 +24,6 @@ LovyanGFX: https://github.com/lovyan03/LovyanGFX/
 Your Display and Touch controllers
 
 ## Supported Displays are on the LovyanGFX site
+### Last saved versions:
+Alpha: 0.9
+Beta: 0.9.10B
