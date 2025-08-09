@@ -31,7 +31,7 @@
       "title": "Added a Refresh Button",
       "date": "2025-08-01",
       "items": [
-        "Added a Refresh Button and it also works as update time after reconnecting."
+        "Added a Refresh Button which also works as a refresh time button"
       ]
     },
     {
@@ -72,64 +72,6 @@
       "date": "2025-07-31",
       "items": [
         "Added Web Server Updates"
-      ]
-    },
-    {
-      "version": "0.6",
-      "title": "Added Settings",
-      "date": "2025-07-31",
-      "items": [
-        "Added Settings menu to main UI"
-      ]
-    },
-    {
-      "version": "0.5",
-      "title": "Added NTP (RTC)",
-      "date": "2025-07-31",
-      "items": [
-        "Synced clock using internet time (NTP)",
-        "Displayed live clock on main menu"
-      ]
-    },
-    {
-      "version": "0.4.1",
-      "title": "Code Cleanup",
-      "date": "2025-07-30",
-      "items": [
-        "Reorganized and cleaned up project code structure"
-      ]
-    },
-    {
-      "version": "0.4",
-      "title": "Web Server",
-      "date": "2025-07-29",
-      "items": [
-        "Added basic web server with root page showing WiFi info"
-      ]
-    },
-    {
-      "version": "0.3",
-      "title": "WiFi Credentials",
-      "date": "2025-07-29",
-      "items": [
-        "Can save and load WiFi credentials from SPIFFS"
-      ]
-    },
-    {
-      "version": "0.2",
-      "title": "WiFi Scan",
-      "date": "2025-07-29",
-      "items": [
-        "Scan for available WiFi networks and display on screen"
-      ]
-    },
-    {
-      "version": "0.1",
-      "title": "Initial Buttons",
-      "date": "2025-07-29",
-      "items": [
-        "Simple 3-button UI",
-        "Each button sends output to serial monitor"
       ]
     }
   ]
