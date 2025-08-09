@@ -1,11 +1,11 @@
 {
-  "version": "0.9.10B",
-  "date": "2025-08-07",
+  "version": "0.10B",
+  "date": "2025-08-09",
   "changes": [
     {
       "version": "0.10B",
       "title": "Added Weather",
-      "date": "2025-08-07",
+      "date": "2025-08-09",
       "items": [
         "Added Weather"
       ]
