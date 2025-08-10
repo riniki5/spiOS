@@ -26,4 +26,4 @@ Your Display and Touch controllers
 ## Supported Displays are on the LovyanGFX site
 ### Last saved versions:
 Alpha: 0.9, 0.8.1
-Beta: 0.10.3B
+Beta: 1.0B
